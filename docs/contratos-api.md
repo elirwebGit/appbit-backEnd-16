@@ -6,7 +6,7 @@
 
 ```
 Desenvolvimento: http://localhost:3000/api
-Produção: https://appbit-b2g.railway.app/api (TBD)
+Produção: a definir Exemplo com Railway: (https://appbit-b2g.railway.app/api (TBD)) 
 ```
 
 ---

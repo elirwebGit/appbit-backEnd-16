@@ -1,4 +1,4 @@
-# ADR-006 — Estrutura Monorepo
+# ADR-005 — Estrutura Monorepo
 
 **Data**: 2026-06-12
 **Status**: ✅ Aceita
@@ -6,7 +6,7 @@
 
 ## Contexto
 
-A equipe de 4 pessoas precisa trabalhar em frontend e backend simultaneamente, com deadline curto (32 dias). Precisamos decidir entre monorepo (tudo num único repositório) ou repos separados.
+A equipe de 5 pessoas precisa trabalhar em frontend e backend simultaneamente, com deadline curto (32 dias). Precisamos decidir entre monorepo (tudo num único repositório) ou repos separados.
 
 ## Decisão
 
@@ -14,7 +14,7 @@ Utilizar **monorepo** com diretórios separados: `/frontend`, `/backend`, `/docs
 
 ## Motivação
 
-- **Equipe pequena (4 pessoas)**: Um único repo simplifica o fluxo de trabalho
+- **Equipe pequena (5 pessoas)**: Um único repo simplifica o fluxo de trabalho
 - **Contratos de API centralizados**: Frontend e backend sempre veem a mesma documentação
 - **Facilidade de onboarding**: Clone único para ter acesso a tudo
 - **Deploy separado**: Cada pasta pode ser deployada independentemente (Vercel para frontend, Railway para backend)

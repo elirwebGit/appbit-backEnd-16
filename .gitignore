@@ -36,15 +36,6 @@ pnpm-debug.log*
 *.sqlite3
 *.db
 
-# ---- .NET ----
-bin/
-obj/
-*.dll
-*.exe
-*.pdb
-*.user
-*.suo
-*.cache
 
 # ---- Python ----
 __pycache__/

@@ -1,8 +1,8 @@
-# ADR-007 — Stack Frontend
+# ADR-006 — Stack Frontend
 
 **Data**: 2026-06-12
 **Status**: ✅ Aceita
-**Autor**: Pedro / Equipe
+**Autor**: Equipe
 
 ## Contexto
 

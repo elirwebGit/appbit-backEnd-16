@@ -8,7 +8,7 @@
 │         React 18 + TypeScript + Vite            │
 │         Leaflet + React-Leaflet (mapas)         │
 │         Lucide React (ícones)                   │
-│         Deploy: Vercel                          │
+│         Deploy: --                          │
 ├─────────────────────────────────────────────────┤
 │                     API                         │
 │            Contratos JSON definidos             │
@@ -17,7 +17,7 @@
 │                    BACKEND                      │
 │         Fastify (Node.js)                       │
 │         Arquitetura Hexagonal                   │
-│         Deploy: Railway / Render                │
+│         Deploy: --                │
 ├─────────────────────────────────────────────────┤
 │                  DADOS + IA                     │
 │         PostgreSQL + PostGIS                    │

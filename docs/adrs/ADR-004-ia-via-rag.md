@@ -1,4 +1,4 @@
-# ADR-005 — IA via RAG (Retrieval-Augmented Generation)
+# ADR-004 — IA via RAG (Retrieval-Augmented Generation)
 
 **Data**: 2026-06-12
 **Status**: ✅ Aceita
